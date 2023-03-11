@@ -6,3 +6,12 @@ p{
     font-size: 20px;
     color: cornflowerblue;
 }
+.blog1, .blog2, .blog3{
+    border: 8px solid seagreen;
+    border-radius: 3px;
+    width: 520px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: justify;
+    color: slategray;
+}
